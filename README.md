@@ -37,3 +37,7 @@ If you would like to contribute to this project, please follow these steps:
 ## License
 
 This project is licensed under the MIT License. See `LICENSE` for more information.
+
+![homepage](./img/homepage.png)
+
+![detailcard](./img/detailcard.png)
